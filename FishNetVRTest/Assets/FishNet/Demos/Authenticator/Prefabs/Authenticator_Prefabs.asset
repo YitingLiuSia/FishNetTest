@@ -12,4 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4489d77032a81ef42b0067acf2737d4d, type: 3}
   m_Name: Authenticator_Prefabs
   m_EditorClassIdentifier: 
-  _prefabs: []
+  _prefabs:
+  - {fileID: 4619153114076679224, guid: c700930221d99444e82d2906ebc648ad, type: 3}
